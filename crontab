@@ -1,0 +1,1 @@
+* * * * * echo "Current container's time:"$(date +"%Y-%m-%d %H:%M")
